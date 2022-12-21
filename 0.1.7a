@@ -1,1 +1,2 @@
-game:GetService('Players').LocalPlayer:Kick('Please join discord.gg/NHPqQg5JY5 For the newest Script! THANK YOU')
+setclipboard("loadstring(game:HttpGet('https://raw.githubusercontent.com/ViribusOwner/Viribus/main/Loader', true))()")
+game:GetService('Players').LocalPlayer:Kick('Newest script copied to clipboard if it did not work join https://discord.gg/NHPqQg5JY5')
